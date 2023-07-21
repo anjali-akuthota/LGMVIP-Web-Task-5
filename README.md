@@ -2,19 +2,7 @@
 The Student Result Management System is a web-based application that helps educational institutions efficiently manage and organize students' academic results. This system simplifies the process of recording, tracking, and analyzing students' performance, providing a user-friendly interface for administrators, teachers, and students.
 
 # Features
-Student Management: Add, update, and delete student records with their personal information, including name, roll number, and contact details.
-
-Course Management: Define courses, subjects, and academic sessions to associate with students.
-
-Result Entry: Easily enter students' exam scores for various subjects and exams, including practicals and theory.
-
-Result Analysis: Generate insightful reports and analytics on student performance based on exams, subjects, or custom parameters.
-
-Grade Generation: Automatically generate grades based on predefined grade criteria or customizable grading scales.
-
-User Roles: Differentiate between administrators, teachers, and students, each with their respective access privileges.
-
-Security: Ensure data privacy and system security with password-protected accounts and secure database management.
+Student Management: Add ,edit  student records with their personal information, including name, marks .
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
